@@ -6,3 +6,4 @@ moviepy
 torch
 pandas
 argparse
+scipy
